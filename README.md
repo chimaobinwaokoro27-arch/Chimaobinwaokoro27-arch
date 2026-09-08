@@ -21,7 +21,7 @@
     <a href="https://twitter.com/your-twitter-username" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:chimaobinwaokoro27@gmail.com .com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://yourportfolio.com" target="_blank">
@@ -37,7 +37,6 @@
 
 * 🔭 I’m currently working on building modern web applications and interactive projects.
 * 🌱 I’m currently refining my skills in advanced **React State Management**, **Tailwind CSS**, and **API integration**.
-* 💬 Ask me about **JavaScript**, **React**, or responsive UI/UX designs.
 * ⚡ Fun fact: When I'm not coding, I enjoy creating AI-generated digital art and graphic media.
 
 ---
@@ -63,7 +62,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    
   </p>
 
 </div>
