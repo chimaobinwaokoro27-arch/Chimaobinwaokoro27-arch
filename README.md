@@ -15,10 +15,10 @@
 
   <!-- SOCIAL / CONTACT BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <a href="https://linkedin.com/in/your-linkedin-chimaobi nwaokoro" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <a href="https://twitter.com/your-twitter-@chimaobivic" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:chimaobinwaokoro27@gmail.com .com">
